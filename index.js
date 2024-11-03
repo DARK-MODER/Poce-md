@@ -14,7 +14,7 @@ const PhoneNumber = require('awesome-phonenumber')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, sleep } = require('./lib/myfunc')
 const moment = require('moment-timezone')
-let developerName = 'ＡＬＩＥＮ ＡＬＦＡ'
+let developerName = 'M A G I C A L  K X'
 let idmail = global.mail
 let instagramID = global.insta
 let GitHubID = global.github
@@ -111,7 +111,7 @@ alfa.ev.on('messages.upsert', async chatUpdate => {
 	let list = []
 	for (let i of kon) {
 	    list.push({
-	    	displayName: `ＡＬＩＥＮ ＡＬＦＡ`,
+	    	displayName: `MAGICAL KX`,
 	    	vcard: `BEGIN:VCARD\n
 	    	VERSION:3.0\n
 	    	N:ALBIN THOMAS\n
@@ -121,14 +121,14 @@ alfa.ev.on('messages.upsert', async chatUpdate => {
 	    	item2.EMAIL;type=INTERNET:AlienAlfa.YT@gmail.com\n
 	    	item3.URL:https://www.instagram.com/alienalfa/\n
 	    	item3.X-ABLabel:Instagram\n
-	    	item4.URL:https://github.com/Alien-alfa/\n
+	    	item4.URL:https://github.com/DARK-MODER/\n
 	    	item4.X-ABLabel:GitHub\n
-	    	item5.URL:https://youtube.com/Alien-alfa/\n
+	    	item5.URL:https://youtube.com/DARK-MODER/\n
 	    	item5.X-ABLabel:YouTube\n
 	    	END:VCARD`
 })
 	}
-	alfa.sendMessage(jid, { contacts: { displayName: `ＡＬＩＥＮ ＡＬＦＡ`, contacts: list }, ...opts }, { quoted })
+	alfa.sendMessage(jid, { contacts: { displayName: `M A G I C A L  K X`, contacts: list }, ...opts }, { quoted })
     }
       
     alfa.setStatus = (status) => {
