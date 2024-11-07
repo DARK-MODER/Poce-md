@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/DARK-MODER/"><img src="https://github.com/DARK-MODER/DARK-MODER/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/DARK-MODER/"><img src="https://github.com/DARK-MODER/Poce-Md/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
