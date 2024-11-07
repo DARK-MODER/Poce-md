@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/DARK-MODER/"><img src="https://github.com/DARK-MODER/Poce-Md/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/kentonx64/"><img src="https://github.com/DARK-MODER/DARK-MODER/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -47,18 +47,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DARK-MODER"><img title="Release" src="https://img.shields.io/badge/Release-EDITABLE%20TEMPLATE-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/DARK-MODER"><img title="Release" src="https://img.shields.io/badge/RELEASES/dark%20moder/poce%20md-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align="center">
 <a href="https://www.youtube.com/c/DARK-MODER"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DARK-MODER"><img title="Developer" src="https://img.shields.io/badge/DARK-MODER%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/DARK-MODER"><img title="Developer" src="https://img.shields.io/badge/DARK%20MODER-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUd"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUd"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/DARK-MODER/Poce-md/main/wlogo.svg.png" width="600"></a>
 </p>
 <br><br>
 <p align="center">
@@ -82,7 +82,7 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD-BETA2/fork"><img title="K EN T O N  K X" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/dark-moder/Poce-md/fork"><img title="K EN T O N  K X" src="https://github.com/DARK-MODER/Poce-md/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
@@ -113,12 +113,12 @@
 
 
   ### ⚠️ Deploy With New Session <br>
-Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2/fork) <br>
+Click [FORK](https://github.com/dark-moder/poce-md/fork) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD-BETA2 
+  https://heroku.com/deploy?template=https://github.com/GITHUBID/Poce-md
   ```
   
   <br> <br>
@@ -130,7 +130,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Alien-alfa/WhatsAppBot-Template
+git clone https://github.com/DARK-MODER/Poce-md
 cd WhatsAppBot-Template
 npm install
 npm i pm2
