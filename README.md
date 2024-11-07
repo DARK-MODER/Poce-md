@@ -82,7 +82,7 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/DARK--MODER/Poce-md/fork"><img title="K EN T O N  K X" src="https://github.com/DARK-MODER/Poce-md/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/DARK--MODER/Public-bot/fork"><img title="K EN T O N  K X" src="https://github.com/DARK-MODER/Poce-md/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
